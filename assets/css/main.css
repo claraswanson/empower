@@ -4727,3 +4727,6 @@ article::after {
 		}
 
 	}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
